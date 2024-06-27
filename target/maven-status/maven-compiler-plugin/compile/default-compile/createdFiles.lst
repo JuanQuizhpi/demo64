@@ -1,0 +1,9 @@
+ec\edu\ups\ppw64\demo64\model\Producto.class
+config\ConfigJaeger.class
+ec\edu\ups\ppw64\demo64\dao\ProductoDAO.class
+ec\edu\ups\ppw64\demo64\business\GestionDatos.class
+ec\edu\ups\ppw64\demo64\business\GestionProductos.class
+ec\edu\ups\ppw64\demo64\services\ErrorMessage.class
+ec\edu\ups\ppw64\demo64\services\PathBase.class
+ec\edu\ups\ppw64\demo64\services\ProductoServices.class
+ec\edu\ups\ppw64\demo64\services\CORSFilter.class
